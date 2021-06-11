@@ -1,9 +1,21 @@
-### Hi there 👋
+<img align="right" width="auto" height="400" src="https://st2.depositphotos.com/1768806/10466/v/950/depositphotos_104667918-stock-illustration-front-end-development-doodle-concept.jpg" alt="Web frontend">
 
-<!--
-**vanthudkr/vanthudkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <h1>Thu Ho - Software Engineer - Front End Developer 😊</h1>
 
-Here are some ideas to get you started:
+- *Skype name*: `live:vanthudkr`
+> - Open and friendly.
+> - Love sport, football is good
+> - Love to learn new things, especially things related to Frontend stacks.
+> - Enjoy working with ReactJS
+
+## <h2>Working</h2> 
+<img align="left" width="auto" height="200" style="padding-left: 10px" src="https://www.kindpng.com/picc/m/78-785975_icon-profile-bio-avatar-person-symbol-chat-icon.png">
+
+- `Front end developer` at SupremeTech: [https://www.supremetech.vn/](https://www.supremetech.vn/)
+- `The main task`: Make UI responsive, follow by design, get requirement and implement
+- `Technical`: HTML5, SCSS, JS, ReactJS, Sketch, Figma
+
+## Some things for funny
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
