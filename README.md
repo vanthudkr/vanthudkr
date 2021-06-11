@@ -1,8 +1,7 @@
 <img align="right" width="auto" height="400" src="https://st2.depositphotos.com/1768806/10466/v/950/depositphotos_104667918-stock-illustration-front-end-development-doodle-concept.jpg" alt="Web frontend">
 
-# <h1>Thu Ho - Software Engineer - Front End Developer 😊</h1>
+# <h1>Thu Ho Software Engineer Front End Developer 😊</h1>
 
-- *Skype name*: `live:vanthudkr`
 > - Open and friendly.
 > - Love sport, football is good
 > - Love to learn new things, especially things related to Frontend stacks.
