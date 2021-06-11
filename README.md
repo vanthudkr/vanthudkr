@@ -6,9 +6,11 @@
 > - Love sport, football is good
 > - Love to learn new things, especially things related to Frontend stacks.
 > - Enjoy working with ReactJS
+> - Working hard and try my best
+ 
+<img align="left" width="auto" height="200" style="padding-left: 10px" src="https://www.kindpng.com/picc/m/78-785975_icon-profile-bio-avatar-person-symbol-chat-icon.png"> 
 
 ## Working 
-<img align="left" width="auto" height="200" style="padding-left: 10px" src="https://www.kindpng.com/picc/m/78-785975_icon-profile-bio-avatar-person-symbol-chat-icon.png">
 
 - `Front end developer` at SupremeTech: [https://www.supremetech.vn/](https://www.supremetech.vn/)
 - `The main task`: Make UI responsive, follow by design, get requirement and implement
